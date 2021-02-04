@@ -231,8 +231,8 @@ footer i {
     .boxed {
         display: flex;
         flex-direction: row;
-        height: 350px;
-        width: 700px;
+        height: 500px;
+        width: 900px;
         align-content: flex-start;
         margin: 30px;
     }
